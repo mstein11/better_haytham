@@ -192,6 +192,7 @@
     <Compile Include="VideoSource\AforgeVideoSource.cs" />
     <Compile Include="VideoSource\AforgeVideoSourceLite.cs" />
     <Compile Include="VideoSource\DeviceCapabilityInfo.cs" />
+    <Compile Include="VideoSource\FileVideoSource2.cs" />
     <Compile Include="VideoSource\FileVideoSource.cs" />
     <Compile Include="VideoSource\FindCamera.cs" />
     <Compile Include="Forms\firstForm.cs">

@@ -1,5 +1,4 @@
-﻿
-//<copyright file="FindCamera.cs" company="ITU">
+﻿//<copyright file="FindCamera.cs" company="ITU">
 //This file is part of Haytham 
 //Copyright (C) 2013 Diako Mardanbegi
 // ------------------------------------------------------------------------
@@ -32,37 +31,38 @@ using AForge.Video;
 
 namespace Haytham.VideoSource
 {
-	public class FindCamera
-	{
+    public class FindCamera
+    {
+        /// <summary>
+        /// <para> DeviceList=|   Deviceinfo 0--|-----|__Name </para>
+        /// <para>            |   Deviceinfo 1  |     |__MonikerString</para>
+        /// <para>            |                 |     |__index</para>
+        /// <para>            |                 |     |__DeviceCapabilityList=|  DeviceCapabilityInfo 0--|----|__FrameSize</para>
+        /// <para>            |                 |                             |  DeviceCapabilityInfo 1  |    |__MaxFPS</para>
+        /// <para>            |   Deviceinfo n  |                             |                          |</para>
+        /// <para>                                                            |                          |</para>
+        /// <para>                                                            |                          |</para>
+        /// <para>           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  DeviceCapabilityInfo n  |</para>
+        /// </summary>
+        ///
+        public IEnumerable<IVideoSource> DeviceList
+        {
+            get
+            {
+                lock (DeviceCache)
+                    return DeviceCache.Values;
+            }
+        }
 
-		/// <summary>
-		/// <para> DeviceList=|   Deviceinfo 0--|-----|__Name </para>
-		/// <para>            |   Deviceinfo 1  |     |__MonikerString</para>
-		/// <para>            |                 |     |__index</para>
-		/// <para>            |                 |     |__DeviceCapabilityList=|  DeviceCapabilityInfo 0--|----|__FrameSize</para>
-		/// <para>            |                 |                             |  DeviceCapabilityInfo 1  |    |__MaxFPS</para>
-		/// <para>            |   Deviceinfo n  |                             |                          |</para>
-		/// <para>                                                            |                          |</para>
-		/// <para>                                                            |                          |</para>
-		/// <para>           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  DeviceCapabilityInfo n  |</para>
-		/// </summary>
-		///
-		public IEnumerable<IVideoSource> DeviceList
-		{
-			get
-			{
-				lock (DeviceCache)
-					return DeviceCache.Values;
-			}
-		}
-		private static Dictionary<string, IVideoSource> DeviceCache = new Dictionary<string, IVideoSource>();
+        private static Dictionary<string, IVideoSource> DeviceCache = new Dictionary<string, IVideoSource>();
 
-		public void Search()
-		{			
-			//AforgeVideoSourceLite.GetDevices(ref DeviceCache);	//FIX: use this if you have problems with device .. it uses only base directshow calls. No device capabilityList
-			PSEyeSource.GetDevices(ref DeviceCache);
-			AforgeVideoSource.GetDevices(ref DeviceCache);
-			FileVideoSource.GetDevices(ref DeviceCache);			
-		}
-	}
+        public void Search()
+        {
+            //AforgeVideoSourceLite.GetDevices(ref DeviceCache);	//FIX: use this if you have problems with device .. it uses only base directshow calls. No device capabilityList
+            PSEyeSource.GetDevices(ref DeviceCache);
+            AforgeVideoSource.GetDevices(ref DeviceCache);
+            FileVideoSource.GetDevices(ref DeviceCache);
+            FileVideoSource2.GetDevices(ref DeviceCache);
+        }
+    }
 }

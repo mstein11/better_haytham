@@ -23,3 +23,8 @@ C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\Haytham
 C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\ZXing\obj\Debug\zxing.pdb
 C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\ZXing\zxing.dll
 C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\ZXing\zxing.pdb
+C:\Users\mstein1\Source\Repos\better_haytham\HaythamServer\Haytham_Server\ZXing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+C:\Users\mstein1\Source\Repos\better_haytham\HaythamServer\Haytham_Server\ZXing\obj\Debug\zxing.dll
+C:\Users\mstein1\Source\Repos\better_haytham\HaythamServer\Haytham_Server\ZXing\obj\Debug\zxing.pdb
+C:\Users\mstein1\Source\Repos\better_haytham\HaythamServer\Haytham_Server\ZXing\zxing.dll
+C:\Users\mstein1\Source\Repos\better_haytham\HaythamServer\Haytham_Server\ZXing\zxing.pdb

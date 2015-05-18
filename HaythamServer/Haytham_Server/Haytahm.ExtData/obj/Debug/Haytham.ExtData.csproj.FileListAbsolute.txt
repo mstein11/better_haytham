@@ -3,3 +3,8 @@ C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\Haytham
 C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\Haytahm.ExtData\obj\Debug\Haytham.ExtData.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\Haytahm.ExtData\obj\Debug\Haytham.ExtData.dll
 C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\Haytahm.ExtData\obj\Debug\Haytham.ExtData.pdb
+C:\Users\mstein1\Source\Repos\better_haytham\HaythamServer\Haytham_Server\Haytahm.ExtData\bin\Debug\Haytham.ExtData.dll
+C:\Users\mstein1\Source\Repos\better_haytham\HaythamServer\Haytham_Server\Haytahm.ExtData\bin\Debug\Haytham.ExtData.pdb
+C:\Users\mstein1\Source\Repos\better_haytham\HaythamServer\Haytham_Server\Haytahm.ExtData\obj\Debug\Haytham.ExtData.csprojResolveAssemblyReference.cache
+C:\Users\mstein1\Source\Repos\better_haytham\HaythamServer\Haytham_Server\Haytahm.ExtData\obj\Debug\Haytham.ExtData.dll
+C:\Users\mstein1\Source\Repos\better_haytham\HaythamServer\Haytham_Server\Haytahm.ExtData\obj\Debug\Haytham.ExtData.pdb
