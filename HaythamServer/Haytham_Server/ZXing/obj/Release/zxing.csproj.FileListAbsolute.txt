@@ -1,0 +1,34 @@
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Release\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Release\zxing.pdb
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\zxing.pdb
+C:\Users\cpsaez\Desktop\TfsPreview\codeplex\WindowsQR\ZXing\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cpsaez\Desktop\TfsPreview\codeplex\WindowsQR\ZXing\obj\Release\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\codeplex\WindowsQR\ZXing\obj\Release\zxing.pdb
+C:\Users\cpsaez\Desktop\TfsPreview\codeplex\WindowsQR\ZXing\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\codeplex\WindowsQR\ZXing\zxing.pdb
+C:\Users\diako.PAL\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\obj\Release\zxing.dll
+C:\Users\diako.PAL\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\obj\Release\zxing.pdb
+C:\Users\diako.PAL\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\zxing.dll
+C:\Users\diako.PAL\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\zxing.pdb
+C:\Users\diako\Dropbox\my Software\HMET\Public\SVN\branches\Google Glass extension\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.csprojResolveAssemblyReference.cache
+C:\Users\diako\Dropbox\my Software\HMET\Public\SVN\branches\Google Glass extension\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.dll
+C:\Users\diako\Dropbox\my Software\HMET\Public\SVN\branches\Google Glass extension\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.pdb
+C:\Users\diako\Dropbox\my Software\HMET\Public\SVN\branches\Google Glass extension\HaythamServer\Haytham_Server\ZXing\zxing.dll
+C:\Users\diako\Dropbox\my Software\HMET\Public\SVN\branches\Google Glass extension\HaythamServer\Haytham_Server\ZXing\zxing.pdb
+C:\Users\diako.PAL\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.csprojResolveAssemblyReference.cache
+C:\Users\diako.PAL\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.dll
+C:\Users\diako.PAL\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.pdb
+C:\Users\diako.PAL\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\zxing.dll
+C:\Users\diako.PAL\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\zxing.pdb
+C:\Users\diako\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.csprojResolveAssemblyReference.cache
+C:\Users\diako\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.dll
+C:\Users\diako\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.pdb
+C:\Users\diako\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\zxing.dll
+C:\Users\diako\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\zxing.pdb
+C:\Users\Diako\Desktop\Dropbox\my Software\HMET\Public\SVN\trunk\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.csprojResolveAssemblyReference.cache
+C:\Users\Diako\Desktop\Dropbox\my Software\HMET\Public\SVN\trunk\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.dll
+C:\Users\Diako\Desktop\Dropbox\my Software\HMET\Public\SVN\trunk\HaythamServer\Haytham_Server\ZXing\obj\Release\zxing.pdb
+C:\Users\Diako\Desktop\Dropbox\my Software\HMET\Public\SVN\trunk\HaythamServer\Haytham_Server\ZXing\zxing.dll
+C:\Users\Diako\Desktop\Dropbox\my Software\HMET\Public\SVN\trunk\HaythamServer\Haytham_Server\ZXing\zxing.pdb

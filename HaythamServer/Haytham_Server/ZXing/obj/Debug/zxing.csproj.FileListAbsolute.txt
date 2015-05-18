@@ -1,0 +1,25 @@
+C:\Users\cpsaez\Desktop\My Dropbox\Projects\QR Payments\QRWindowsClient\ZXing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cpsaez\Desktop\My Dropbox\Projects\QR Payments\QRWindowsClient\ZXing\obj\Debug\zxing.dll
+C:\Users\cpsaez\Desktop\My Dropbox\Projects\QR Payments\QRWindowsClient\ZXing\obj\Debug\zxing.pdb
+C:\Users\cpsaez\Desktop\My Dropbox\Projects\QR Payments\QRWindowsClient\ZXing\zxing.dll
+C:\Users\cpsaez\Desktop\My Dropbox\Projects\QR Payments\QRWindowsClient\ZXing\zxing.pdb
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Debug\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Debug\zxing.pdb
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\zxing.pdb
+C:\Users\diako.PAL\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+C:\Users\diako.PAL\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\obj\Debug\zxing.dll
+C:\Users\diako.PAL\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\obj\Debug\zxing.pdb
+C:\Users\diako.PAL\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\zxing.dll
+C:\Users\diako.PAL\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\zxing.pdb
+C:\Users\diako.PAL\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+C:\Users\diako.PAL\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\obj\Debug\zxing.dll
+C:\Users\diako.PAL\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\obj\Debug\zxing.pdb
+C:\Users\diako.PAL\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\zxing.dll
+C:\Users\diako.PAL\Dropbox\FXPAL\Step1 (FXPAL)\HaythamServer\Haytham_Server\ZXing\zxing.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\ZXing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\ZXing\obj\Debug\zxing.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\ZXing\obj\Debug\zxing.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\ZXing\zxing.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\haytham-svn-49-trunk\HaythamServer\Haytham_Server\ZXing\zxing.pdb
